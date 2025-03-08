@@ -1,0 +1,16 @@
+{"time":"2025-03-04T17:40:38.4005556+07:00","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"c:\\Users\\napat\\Documents\\GitHub\\FRA501_NLP\\HW1\\wandb\\run-20250304_174038-l3olq034\\logs\\debug-core.log"}
+{"time":"2025-03-04T17:40:38.9982781+07:00","level":"INFO","msg":"created new stream","id":"l3olq034"}
+{"time":"2025-03-04T17:40:38.9982781+07:00","level":"INFO","msg":"stream: started","id":"l3olq034"}
+{"time":"2025-03-04T17:40:38.9982781+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"l3olq034"}
+{"time":"2025-03-04T17:40:38.9982781+07:00","level":"INFO","msg":"sender: started","stream_id":"l3olq034"}
+{"time":"2025-03-04T17:40:38.9982781+07:00","level":"INFO","msg":"handler: started","stream_id":"l3olq034"}
+{"time":"2025-03-04T17:40:39.5606329+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-04T17:40:39.6762977+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-04T17:41:04.5774745+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-04T17:50:46.4305733+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-04T17:50:59.0678993+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-04T17:51:17.5229108+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-04T17:52:02.1457769+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-04T17:52:04.6993536+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-04T17:52:22.3203996+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-04T17:52:25.4257586+07:00","level":"INFO","msg":"Pausing system monitor"}

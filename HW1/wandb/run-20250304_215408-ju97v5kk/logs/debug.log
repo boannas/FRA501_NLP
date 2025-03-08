@@ -1,0 +1,38 @@
+2025-03-04 21:54:08,059 INFO    MainThread:31564 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\napat\Documents\GitHub\FRA501_NLP\HW1\wandb\run-20250304_215408-ju97v5kk\logs\debug.log
+2025-03-04 21:54:08,059 INFO    MainThread:31564 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\napat\Documents\GitHub\FRA501_NLP\HW1\wandb\run-20250304_215408-ju97v5kk\logs\debug-internal.log
+2025-03-04 21:54:08,059 INFO    MainThread:31564 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x00000181F81DCD00>
+2025-03-04 21:54:08,059 INFO    MainThread:31564 [wandb_init.py:init():761] calling init triggers
+2025-03-04 21:54:08,059 INFO    MainThread:31564 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'architecture': 'simpleff_dropout', 'epochs': 3, '_wandb': {}}
+2025-03-04 21:54:08,059 INFO    MainThread:31564 [wandb_init.py:init():784] starting backend
+2025-03-04 21:54:08,059 INFO    MainThread:31564 [wandb_init.py:init():788] sending inform_init request
+2025-03-04 21:54:08,067 INFO    MainThread:31564 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn, using: spawn
+2025-03-04 21:54:08,075 INFO    MainThread:31564 [wandb_init.py:init():803] backend started and connected
+2025-03-04 21:54:08,078 INFO    MainThread:31564 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-03-04 21:54:08,208 INFO    MainThread:31564 [wandb_run.py:_label_probe_notebook():1214] Unable to probe notebook: 'charmap' codec can't decode byte 0x81 in position 558: character maps to <undefined>
+2025-03-04 21:54:08,208 INFO    MainThread:31564 [wandb_init.py:init():896] updated telemetry
+2025-03-04 21:54:08,267 INFO    MainThread:31564 [wandb_init.py:init():920] communicating run to backend with 90.0 second timeout
+2025-03-04 21:54:08,835 INFO    MainThread:31564 [wandb_init.py:init():995] starting run threads in backend
+2025-03-04 21:54:10,190 INFO    MainThread:31564 [wandb_run.py:_console_start():2377] atexit reg
+2025-03-04 21:54:10,191 INFO    MainThread:31564 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-03-04 21:54:10,191 INFO    MainThread:31564 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-03-04 21:54:10,191 INFO    MainThread:31564 [wandb_run.py:_redirect():2317] Redirects installed.
+2025-03-04 21:54:10,192 INFO    MainThread:31564 [wandb_init.py:init():1037] run started, returning control to user process
+2025-03-04 21:54:10,192 INFO    MainThread:31564 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-04 21:54:10,194 INFO    MainThread:31564 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-04 21:54:10,215 INFO    MainThread:31564 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-04 21:54:10,224 INFO    MainThread:31564 [wandb_watch.py:_watch():71] Watching
+2025-03-04 22:04:48,205 INFO    MainThread:31564 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-04 22:04:48,205 INFO    MainThread:31564 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-04 22:04:48,211 INFO    MainThread:31564 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-04 22:05:07,639 INFO    MainThread:31564 [wandb_run.py:_finish():2112] finishing run boannas-kmutt/simpleff_dropout/ju97v5kk
+2025-03-04 22:05:07,640 ERROR   MainThread:31564 [jupyter.py:save_history():450] Run pip install nbformat to save notebook history
+2025-03-04 22:05:07,640 INFO    MainThread:31564 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-04 22:05:07,640 INFO    MainThread:31564 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-03-04 22:05:07,640 INFO    MainThread:31564 [wandb_run.py:_atexit_cleanup():2342] got exitcode: 0
+2025-03-04 22:05:07,640 INFO    MainThread:31564 [wandb_run.py:_restore():2324] restore
+2025-03-04 22:05:07,640 INFO    MainThread:31564 [wandb_run.py:_restore():2330] restore done
+2025-03-04 22:05:10,428 INFO    MsgRouterThr:31564 [mailbox.py:close():115] Closing mailbox, abandoning 1 handles.
+2025-03-04 22:05:10,429 INFO    MainThread:31564 [wandb_run.py:_footer_history_summary_info():3958] rendering history
+2025-03-04 22:05:10,429 INFO    MainThread:31564 [wandb_run.py:_footer_history_summary_info():3990] rendering summary
+2025-03-04 22:05:10,432 INFO    MainThread:31564 [wandb_run.py:_footer_sync_info():3919] logging synced files

@@ -1,0 +1,119 @@
+EPOCH : 1
+TRAINING LOOP
+  6%|▌         | 1989/32152 [00:22<05:37, 89.40it/s] 
+wandb: Appending key for api.wandb.ai to your netrc file: C:\Users\napat\_netrc
+wandb: W&B API key is configured. Use `wandb login --relogin` to force relogin
+Extraction complete!
+  char char-1 char1
+1    e      h     l
+2    l      e     l
+3    l      l     o
+4    o      l
+5           o     w
+6    w            o
+7    o      w     r
+8    r      o     l
+9    l      r     d
+Training data shape:  (16461637, 21)
+Training data labels shape:  (16461637,)
+Validation data shape:  (2035694, 21)
+Validation data labels shape:  (2035694,)
+Test data shape:  (2271932, 21)
+Test data labels shape:  (2271932,)
+First 3 features:  [[112. 140. 114. 148. 130. 142.  94. 142. 128. 128.   1.   1.   1.   1.
+    1.   1.   1.   1.   1.   1.  97.]
+ [140. 114. 148. 130. 142.  94. 142. 128. 128. 141.  97.   1.   1.   1.
+    1.   1.   1.   1.   1.   1. 112.]
+ [114. 148. 130. 142.  94. 142. 128. 128. 141. 109. 112.  97.   1.   1.
+    1.   1.   1.   1.   1.   1. 140.]]
+First 30 class labels [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0]
+ค:  ค ณะตุลาการร	pred = 1
+ณ: ค ณ ะตุลาการรั	pred = 0
+ะ: คณ ะ ตุลาการรัฐ	pred = 0
+ต: คณะ ต ุลาการรัฐธ	pred = 0
+ุ: คณะต ุ ลาการรัฐธร	pred = 0
+ล: คณะตุ ล าการรัฐธรร	pred = 0
+า: คณะตุล า การรัฐธรรม	pred = 0
+ก: คณะตุลา ก ารรัฐธรรมน	pred = 0
+า: คณะตุลาก า รรัฐธรรมนู	pred = 0
+ร: คณะตุลากา ร รัฐธรรมนูญ	pred = 0
+ร: คณะตุลาการ ร ัฐธรรมนูญก	pred = 0
+ั: ณะตุลาการร ั ฐธรรมนูญกั	pred = 0
+ฐ: ะตุลาการรั ฐ ธรรมนูญกับ	pred = 0
+ธ: ตุลาการรัฐ ธ รรมนูญกับค	pred = 0
+ร: ุลาการรัฐธ ร รมนูญกับคว	pred = 0
+ร: ลาการรัฐธร ร มนูญกับควา	pred = 0
+ม: าการรัฐธรร ม นูญกับความ	pred = 0
+น: การรัฐธรรม น ูญกับความเ	pred = 0
+ู: ารรัฐธรรมน ู ญกับความเป	pred = 0
+ญ: รรัฐธรรมนู ญ กับความเป็	pred = 0
+ก: รัฐธรรมนูญ ก ับความเป็น	pred = 1
+ั: ัฐธรรมนูญก ั บความเป็นอ	pred = 0
+บ: ฐธรรมนูญกั บ ความเป็นอง	pred = 0
+ค: ธรรมนูญกับ ค วามเป็นองค	pred = 1
+ว: รรมนูญกับค ว ามเป็นองค์	pred = 0
+า: รมนูญกับคว า มเป็นองค์ก	pred = 0
+ม: มนูญกับควา ม เป็นองค์กร	pred = 0
+เ: นูญกับความ เ ป็นองค์กรต	pred = 1
+ป: ูญกับความเ ป ็นองค์กรตุ	pred = 0
+็: ญกับความเป ็ นองค์กรตุล	pred = 0
+True
+1
+NVIDIA GeForce RTX 3050 Ti Laptop GPU
+torch.Size([64, 1])
+tensor([0, 1, 2, 3, 4, 5]) torch.Size([6])
+tensor([ 1,  3,  5,  7,  9, 11])
+tensor([[0, 1, 2],
+        [3, 4, 5]])
+torch.Size([1, 1, 4, 4]) torch.Size([1, 1, 4, 4])
+tensor([[[[ 1.,  2.,  3.,  4.],
+          [ 5.,  6.,  7.,  8.],
+          [ 9., 10., 11., 12.],
+          [13., 14., 15., 16.]]]])
+tensor([[[[1., 1., 1., 1.],
+          [1., 1., 1., 1.],
+          [1., 1., 1., 1.],
+          [1., 1., 1., 1.]]]])
+tensor([[[[10., 10., 10., 10.],
+          [26., 26., 26., 26.],
+          [42., 42., 42., 42.],
+          [58., 58., 58., 58.]]]])
+[[112. 140. 114. 148. 130. 142.  94. 142. 128. 128.   1.   1.   1.   1.
+    1.   1.   1.   1.   1.   1.  97.]
+ [140. 114. 148. 130. 142.  94. 142. 128. 128. 141.  97.   1.   1.   1.
+    1.   1.   1.   1.   1.   1. 112.]
+ [114. 148. 130. 142.  94. 142. 128. 128. 141. 109. 112.  97.   1.   1.
+    1.   1.   1.   1.   1.   1. 140.]
+ [148. 130. 142.  94. 142. 128. 128. 141. 109. 117. 140. 112.  97.   1.
+    1.   1.   1.   1.   1.   1. 114.]]
+(4, 21)
+torch.Size([4, 3])
+tensor([[-10.7609,  35.0017, -75.6997],
+        [-27.3164,  26.4542, -69.2510],
+        [ -9.0613,  42.3437, -91.1748],
+        [-21.3748,  35.3703, -57.5476]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+EPOCH : 1
+TRAINING LOOP
+100%|██████████| 32152/32152 [03:47<00:00, 141.17it/s]
+VALIDATION LOOP
+100%|██████████| 3976/3976 [00:16<00:00, 238.05it/s]
+val loss: 0.32279765605926514
+val accuracy: 0.8653422370945731
+EPOCH : 2
+TRAINING LOOP
+100%|██████████| 32152/32152 [12:22<00:00, 43.31it/s]   
+VALIDATION LOOP
+100%|██████████| 3976/3976 [00:16<00:00, 234.99it/s]
+val loss: 0.2836230993270874
+val accuracy: 0.8840547744405594
+EPOCH : 3
+TRAINING LOOP
+100%|██████████| 32152/32152 [04:18<00:00, 124.35it/s]
+VALIDATION LOOP
+100%|██████████| 3976/3976 [00:15<00:00, 251.63it/s]
+val loss: 0.26670151948928833
+val accuracy: 0.892071696433747
+C:\Users\napat\AppData\Local\Temp\ipykernel_31564\737598288.py:1: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  model.load_state_dict(torch.load(model_checkpoint_path_feedforward_nn)) # load model with the best validation accuracy
+100%|██████████| 4438/4438 [00:21<00:00, 210.33it/s]

@@ -1,0 +1,24 @@
+EPOCH : 1
+TRAINING LOOP
+100%|██████████| 32152/32152 [02:57<00:00, 180.67it/s]
+VALIDATION LOOP
+100%|██████████| 3976/3976 [00:14<00:00, 280.26it/s]
+val loss: 0.2565995156764984
+val accuracy: 0.8959445771319265
+EPOCH : 2
+TRAINING LOOP
+100%|██████████| 32152/32152 [02:56<00:00, 182.11it/s]
+VALIDATION LOOP
+100%|██████████| 3976/3976 [00:14<00:00, 274.37it/s]
+val loss: 0.2476561814546585
+val accuracy: 0.8997162638392607
+EPOCH : 3
+TRAINING LOOP
+100%|██████████| 32152/32152 [02:57<00:00, 181.49it/s]
+VALIDATION LOOP
+100%|██████████| 3976/3976 [00:14<00:00, 281.11it/s]
+val loss: 0.2463134527206421
+val accuracy: 0.8998091068696965
+C:\Users\napat\AppData\Local\Temp\ipykernel_31384\3279580514.py:1: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  model_nn_with_dropout.load_state_dict(torch.load(model_checkpoint_path_feedforward_nn_with_dropout)) # load model with the best validation accuracy
+100%|██████████| 4438/4438 [00:17<00:00, 255.17it/s]

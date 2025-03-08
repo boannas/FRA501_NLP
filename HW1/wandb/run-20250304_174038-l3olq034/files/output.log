@@ -1,0 +1,61 @@
+EPOCH : 1
+TRAINING LOOP
+100%|██████████| 32152/32152 [02:58<00:00, 180.25it/s]
+VALIDATION LOOP
+100%|██████████| 3976/3976 [00:13<00:00, 302.68it/s]
+val loss: 0.2565995156764984
+val accuracy: 0.8959445771319265
+EPOCH : 2
+TRAINING LOOP
+100%|██████████| 32152/32152 [02:56<00:00, 182.14it/s]
+VALIDATION LOOP
+100%|██████████| 3976/3976 [00:13<00:00, 292.57it/s]
+val loss: 0.2476561814546585
+val accuracy: 0.8997162638392607
+EPOCH : 3
+TRAINING LOOP
+100%|██████████| 32152/32152 [03:01<00:00, 177.20it/s]
+VALIDATION LOOP
+100%|██████████| 3976/3976 [00:13<00:00, 285.31it/s]
+val loss: 0.2463134527206421
+val accuracy: 0.8998091068696965
+100%|██████████| 4438/4438 [00:16<00:00, 272.75it/s]
+(0.2803156080375645, 0.43601918620734376, 0.2789109672431437, 0.9984219131341374, array([1, 1, 1, ..., 1, 1, 1], shape=(2271932,)), array([[1.],
+       [0.],
+       [0.],
+       ...,
+       [1.],
+       [0.],
+       [1.]], shape=(2271932, 1), dtype=float32))
+C:\Users\napat\AppData\Local\Temp\ipykernel_29904\2862039549.py:14: DeprecationWarning: Conversion of an array with ndim > 0 to a scalar is deprecated, and will error in future. Ensure you extract a single element from your array before performing this operation. (Deprecated NumPy 1.25.)
+  print(center + ': ' + word + "\t\tlabel = "+str(int(label[index])) + "\t\tpred = "+str(pred[index]))
+ฏ: ป ฏ ิรูปการศึก		label = 0		pred = 1
+ิ: ปฏ ิ รูปการศึกษ		label = 0		pred = 1
+ร: ปฏิ ร ูปการศึกษา		label = 0		pred = 1
+ู: ปฏิร ู ปการศึกษา		label = 0		pred = 1
+ป: ปฏิรู ป การศึกษา:		label = 0		pred = 1
+า: ปฏิรูปก า รศึกษา:ม		label = 0		pred = 1
+ร: ปฏิรูปกา ร ศึกษา:มุ		label = 0		pred = 1
+ึ: ปฏิรูปการศ ึ กษา:มุมม		label = 0		pred = 1
+ก: ฏิรูปการศึ ก ษา:มุมมอ		label = 0		pred = 1
+ษ: ิรูปการศึก ษ า:มุมมอง		label = 0		pred = 1
+า: รูปการศึกษ า :มุมมองท		label = 0		pred = 1
+ุ: รศึกษา:ม ุ มมองทางกระ		label = 0		pred = 1
+ม: ศึกษา:มุ ม มองทางกระบ		label = 0		pred = 1
+ม: ึกษา:มุม ม องทางกระบว		label = 0		pred = 1
+อ: กษา:มุมม อ งทางกระบวน		label = 0		pred = 1
+ง: ษา:มุมมอ ง ทางกระบวนท		label = 0		pred = 1
+า: :มุมมองท า งกระบวนทัศ		label = 0		pred = 1
+ง: :มุมมองทา ง กระบวนทัศน		label = 0		pred = 1
+ร: มุมมองทางก ร ะบวนทัศน์แ		label = 0		pred = 1
+ะ: ุมมองทางกร ะ บวนทัศน์แล		label = 0		pred = 1
+บ: มมองทางกระ บ วนทัศน์และ		label = 0		pred = 1
+ว: มองทางกระบ ว นทัศน์และบ		label = 0		pred = 1
+น: องทางกระบว น ทัศน์และบร		label = 0		pred = 1
+ั: ทางกระบวนท ั ศน์และบริบ		label = 0		pred = 1
+ศ: างกระบวนทั ศ น์และบริบท		label = 0		pred = 1
+น: งกระบวนทัศ น ์และบริบทส		label = 0		pred = 1
+์: กระบวนทัศน ์ และบริบทสั		label = 0		pred = 1
+ล: ะบวนทัศน์แ ล ะบริบทสังค		label = 0		pred = 1
+ะ: บวนทัศน์แล ะ บริบทสังคม		label = 0		pred = 1
+ร: นทัศน์และบ ร ิบทสังคมไท		label = 0		pred = 1
