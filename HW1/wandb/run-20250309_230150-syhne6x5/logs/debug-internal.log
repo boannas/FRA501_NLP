@@ -1,0 +1,18 @@
+{"time":"2025-03-09T23:01:50.4274922+07:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\napat\\Documents\\GitHub\\FRA501_NLP\\HW1\\wandb\\run-20250309_230150-syhne6x5\\logs\\debug-core.log"}
+{"time":"2025-03-09T23:01:50.538822+07:00","level":"INFO","msg":"created new stream","id":"syhne6x5"}
+{"time":"2025-03-09T23:01:50.538822+07:00","level":"INFO","msg":"stream: started","id":"syhne6x5"}
+{"time":"2025-03-09T23:01:50.538822+07:00","level":"INFO","msg":"handler: started","stream_id":"syhne6x5"}
+{"time":"2025-03-09T23:01:50.538822+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"syhne6x5"}
+{"time":"2025-03-09T23:01:50.538822+07:00","level":"INFO","msg":"sender: started","stream_id":"syhne6x5"}
+{"time":"2025-03-09T23:01:51.0885576+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T23:01:51.2495797+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-09T23:01:54.8649803+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-09T23:02:28.5209129+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T23:02:28.5219295+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T23:02:29.5368863+07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.4377214,"progress":"25B/25B"},{"desc":"uploading config.yaml","runtime_seconds":0.1506304,"progress":"644B/644B"}],"total_operations":2}}
+{"time":"2025-03-09T23:02:29.7210915+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T23:02:30.1452741+07:00","level":"INFO","msg":"stream: closing","id":"syhne6x5"}
+{"time":"2025-03-09T23:02:30.1452741+07:00","level":"INFO","msg":"handler: closed","stream_id":"syhne6x5"}
+{"time":"2025-03-09T23:02:30.1452741+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"syhne6x5"}
+{"time":"2025-03-09T23:02:30.1452741+07:00","level":"INFO","msg":"sender: closed","stream_id":"syhne6x5"}
+{"time":"2025-03-09T23:02:30.1463231+07:00","level":"INFO","msg":"stream: closed","id":"syhne6x5"}

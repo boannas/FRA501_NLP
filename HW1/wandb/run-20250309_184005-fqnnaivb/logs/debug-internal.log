@@ -1,0 +1,22 @@
+{"time":"2025-03-09T18:40:05.0952688+07:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\napat\\Documents\\GitHub\\FRA501_NLP\\HW1\\wandb\\run-20250309_184005-fqnnaivb\\logs\\debug-core.log"}
+{"time":"2025-03-09T18:40:05.9018523+07:00","level":"INFO","msg":"created new stream","id":"fqnnaivb"}
+{"time":"2025-03-09T18:40:05.9024047+07:00","level":"INFO","msg":"stream: started","id":"fqnnaivb"}
+{"time":"2025-03-09T18:40:05.9024047+07:00","level":"INFO","msg":"handler: started","stream_id":"fqnnaivb"}
+{"time":"2025-03-09T18:40:05.9024047+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"fqnnaivb"}
+{"time":"2025-03-09T18:40:05.9024047+07:00","level":"INFO","msg":"sender: started","stream_id":"fqnnaivb"}
+{"time":"2025-03-09T18:40:06.3538776+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T18:40:09.452498+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-09T18:40:22.1647067+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-09T18:40:22.1682212+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-09T18:40:30.2054699+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-09T18:40:30.7532075+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-09T18:40:40.2472419+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-09T18:41:00.9464586+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T18:41:00.9470336+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T18:41:01.9543579+07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.3977718,"progress":"25B/25B"},{"desc":"uploading config.yaml","runtime_seconds":0.1374444,"progress":"640B/640B"}],"total_operations":2}}
+{"time":"2025-03-09T18:41:02.7390749+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T18:41:03.101467+07:00","level":"INFO","msg":"stream: closing","id":"fqnnaivb"}
+{"time":"2025-03-09T18:41:03.101467+07:00","level":"INFO","msg":"handler: closed","stream_id":"fqnnaivb"}
+{"time":"2025-03-09T18:41:03.101467+07:00","level":"INFO","msg":"sender: closed","stream_id":"fqnnaivb"}
+{"time":"2025-03-09T18:41:03.101467+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"fqnnaivb"}
+{"time":"2025-03-09T18:41:03.101467+07:00","level":"INFO","msg":"stream: closed","id":"fqnnaivb"}

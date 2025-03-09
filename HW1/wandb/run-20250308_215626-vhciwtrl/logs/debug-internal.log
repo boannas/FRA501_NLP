@@ -1,0 +1,48 @@
+{"time":"2025-03-08T21:56:26.2860109+07:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\napat\\Documents\\GitHub\\FRA501_NLP\\HW1\\wandb\\run-20250308_215626-vhciwtrl\\logs\\debug-core.log"}
+{"time":"2025-03-08T21:56:27.5498137+07:00","level":"INFO","msg":"created new stream","id":"vhciwtrl"}
+{"time":"2025-03-08T21:56:27.5504638+07:00","level":"INFO","msg":"stream: started","id":"vhciwtrl"}
+{"time":"2025-03-08T21:56:27.5504638+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"vhciwtrl"}
+{"time":"2025-03-08T21:56:27.5504638+07:00","level":"INFO","msg":"sender: started","stream_id":"vhciwtrl"}
+{"time":"2025-03-08T21:56:27.5504638+07:00","level":"INFO","msg":"handler: started","stream_id":"vhciwtrl"}
+{"time":"2025-03-08T21:56:28.1585453+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-08T21:56:29.5828906+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-08T21:57:09.2032826+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-08T21:57:09.2060871+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-08T21:57:10.5155431+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-08T21:57:10.5204831+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-08T21:57:11.199709+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-08T21:57:11.2057643+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-08T21:57:14.244123+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-08T21:57:14.2528484+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-08T21:57:15.3023547+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-08T21:57:15.3090998+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-08T21:57:21.9489462+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-08T21:57:21.9553533+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-08T21:57:23.9051919+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-08T21:57:23.9108381+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-08T21:57:27.575201+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-08T21:57:27.5814898+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-08T21:57:30.9598458+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-08T21:57:30.9601461+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-08T21:57:32.6606852+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-08T21:57:32.6664049+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-08T21:58:04.9095968+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-08T21:58:05.1984626+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-08T21:58:23.3996128+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-08T21:58:24.0140659+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-08T21:58:32.7689578+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-08T21:58:33.4692487+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-08T21:58:34.7558697+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-08T21:58:34.7816115+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-08T21:58:46.9623212+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-08T21:58:46.9646253+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-08T21:58:47.7670116+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-08T21:59:11.0114114+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-08T21:59:11.0119163+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-08T21:59:12.0203062+07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.3378684,"progress":"25B/25B"},{"desc":"uploading output.log","runtime_seconds":0.3378684,"progress":"1.1KB/1.1KB"}],"total_operations":2}}
+{"time":"2025-03-08T21:59:12.5022947+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-08T21:59:13.1328497+07:00","level":"INFO","msg":"stream: closing","id":"vhciwtrl"}
+{"time":"2025-03-08T21:59:13.1328497+07:00","level":"INFO","msg":"handler: closed","stream_id":"vhciwtrl"}
+{"time":"2025-03-08T21:59:13.1328497+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"vhciwtrl"}
+{"time":"2025-03-08T21:59:13.1376517+07:00","level":"INFO","msg":"sender: closed","stream_id":"vhciwtrl"}
+{"time":"2025-03-08T21:59:13.1376517+07:00","level":"INFO","msg":"stream: closed","id":"vhciwtrl"}
