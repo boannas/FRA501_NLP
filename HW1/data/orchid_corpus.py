@@ -18,7 +18,7 @@ def get_sentences(data_type):
     file_path = data_path[data_type]
     sentences = list()
     current_sentences = list()
-    with open(file_path) as data_file:
+    with open(file_path, encoding="utf-8") as data_file:
         for raw_line in data_file:
             line = raw_line.strip()
             if len(line) == 0:

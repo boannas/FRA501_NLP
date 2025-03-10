@@ -1,3 +1,4 @@
 *.zip
 *.gz
 /HW1/corpora
+*.pt
