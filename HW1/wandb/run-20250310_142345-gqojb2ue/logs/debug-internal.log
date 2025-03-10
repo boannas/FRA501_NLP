@@ -1,0 +1,18 @@
+{"time":"2025-03-10T14:23:45.5043188+07:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\napat\\Documents\\GitHub\\FRA501_NLP\\HW1\\wandb\\run-20250310_142345-gqojb2ue\\logs\\debug-core.log"}
+{"time":"2025-03-10T14:23:45.6147408+07:00","level":"INFO","msg":"created new stream","id":"gqojb2ue"}
+{"time":"2025-03-10T14:23:45.6147408+07:00","level":"INFO","msg":"handler: started","stream_id":"gqojb2ue"}
+{"time":"2025-03-10T14:23:45.6147408+07:00","level":"INFO","msg":"sender: started","stream_id":"gqojb2ue"}
+{"time":"2025-03-10T14:23:45.6147408+07:00","level":"INFO","msg":"stream: started","id":"gqojb2ue"}
+{"time":"2025-03-10T14:23:45.6147408+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"gqojb2ue"}
+{"time":"2025-03-10T14:23:46.0942259+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T14:23:46.2396011+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-10T14:23:52.1069815+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-10T14:24:26.4330892+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T14:24:26.4335999+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T14:24:27.4459916+07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.1518007,"progress":"642B/642B"}],"total_operations":1}}
+{"time":"2025-03-10T14:24:27.6465597+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T14:24:28.0207073+07:00","level":"INFO","msg":"stream: closing","id":"gqojb2ue"}
+{"time":"2025-03-10T14:24:28.0207073+07:00","level":"INFO","msg":"handler: closed","stream_id":"gqojb2ue"}
+{"time":"2025-03-10T14:24:28.0207073+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"gqojb2ue"}
+{"time":"2025-03-10T14:24:28.0213945+07:00","level":"INFO","msg":"sender: closed","stream_id":"gqojb2ue"}
+{"time":"2025-03-10T14:24:28.0213945+07:00","level":"INFO","msg":"stream: closed","id":"gqojb2ue"}
