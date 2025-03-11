@@ -1,0 +1,18 @@
+{"time":"2025-03-11T12:11:01.3305231+07:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\napat\\Documents\\GitHub\\FRA501_NLP\\HW1\\wandb\\run-20250311_121101-ktdwfi7t\\logs\\debug-core.log"}
+{"time":"2025-03-11T12:11:01.9246023+07:00","level":"INFO","msg":"created new stream","id":"ktdwfi7t"}
+{"time":"2025-03-11T12:11:01.9251955+07:00","level":"INFO","msg":"stream: started","id":"ktdwfi7t"}
+{"time":"2025-03-11T12:11:01.9251955+07:00","level":"INFO","msg":"sender: started","stream_id":"ktdwfi7t"}
+{"time":"2025-03-11T12:11:01.9251955+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"ktdwfi7t"}
+{"time":"2025-03-11T12:11:01.9251955+07:00","level":"INFO","msg":"handler: started","stream_id":"ktdwfi7t"}
+{"time":"2025-03-11T12:11:02.3813621+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-11T12:11:02.5139479+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T12:11:11.1246802+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T13:31:36.3000325+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-11T13:31:36.3005462+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-11T13:31:37.3216874+07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.4331482,"progress":"13.6KB/13.6KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.4331482,"progress":"42.8KB/42.8KB"},{"desc":"uploading config.yaml","runtime_seconds":0.1139405,"progress":"656B/656B"}],"total_operations":3}}
+{"time":"2025-03-11T13:31:37.6938361+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-11T13:31:38.1993644+07:00","level":"INFO","msg":"stream: closing","id":"ktdwfi7t"}
+{"time":"2025-03-11T13:31:38.1993644+07:00","level":"INFO","msg":"handler: closed","stream_id":"ktdwfi7t"}
+{"time":"2025-03-11T13:31:38.1993644+07:00","level":"INFO","msg":"sender: closed","stream_id":"ktdwfi7t"}
+{"time":"2025-03-11T13:31:38.1993644+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ktdwfi7t"}
+{"time":"2025-03-11T13:31:38.1998972+07:00","level":"INFO","msg":"stream: closed","id":"ktdwfi7t"}

@@ -1,0 +1,12 @@
+START EPOCH  1
+Traing loop
+100%|██████████| 290/290 [01:08<00:00,  4.21it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:11<00:00,  6.31it/s]
+epoch = 01,    training loss = 6.749,     training acc = 0.878,     testing acc = 0.889
+START EPOCH  2
+Traing loop
+100%|██████████| 290/290 [01:13<00:00,  3.92it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:11<00:00,  6.52it/s]
+epoch = 02,    training loss = 5.725,     training acc = 0.896,     testing acc = 0.900

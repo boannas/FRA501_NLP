@@ -1,0 +1,302 @@
+START EPOCH  1
+Traing loop
+  0%|          | 0/290 [00:00<?, ?it/s]c:\Users\napat\Documents\GitHub\env\lib\site-packages\torchcrf\__init__.py:249: UserWarning: where received a uint8 condition tensor. This behavior is deprecated and will be removed in a future version of PyTorch. Use a boolean condition instead. (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\native\TensorCompare.cpp:530.)
+  score = torch.where(mask[i].unsqueeze(1), next_score, score)
+100%|██████████| 290/290 [01:33<00:00,  3.10it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:10<00:00,  6.76it/s]
+epoch = 01,    training loss = 80.014,     training acc = 0.435,     testing acc = 0.682
+START EPOCH  2
+Traing loop
+100%|██████████| 290/290 [01:22<00:00,  3.51it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:11<00:00,  6.44it/s]
+epoch = 02,    training loss = 47.846,     training acc = 0.592,     testing acc = 0.809
+START EPOCH  3
+Traing loop
+100%|██████████| 290/290 [01:12<00:00,  4.02it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:11<00:00,  6.42it/s]
+epoch = 03,    training loss = 35.352,     training acc = 0.670,     testing acc = 0.861
+START EPOCH  4
+Traing loop
+100%|██████████| 290/290 [01:11<00:00,  4.05it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:10<00:00,  6.71it/s]
+epoch = 04,    training loss = 28.507,     training acc = 0.719,     testing acc = 0.886
+START EPOCH  5
+Traing loop
+100%|██████████| 290/290 [01:13<00:00,  3.97it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:11<00:00,  6.40it/s]
+epoch = 05,    training loss = 24.117,     training acc = 0.753,     testing acc = 0.899
+START EPOCH  6
+Traing loop
+100%|██████████| 290/290 [01:14<00:00,  3.91it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:11<00:00,  6.63it/s]
+epoch = 06,    training loss = 21.041,     training acc = 0.778,     testing acc = 0.906
+START EPOCH  7
+Traing loop
+100%|██████████| 290/290 [01:25<00:00,  3.38it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:15<00:00,  4.65it/s]
+epoch = 07,    training loss = 18.755,     training acc = 0.797,     testing acc = 0.912
+START EPOCH  8
+Traing loop
+100%|██████████| 290/290 [01:15<00:00,  3.82it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:11<00:00,  6.49it/s]
+epoch = 08,    training loss = 16.982,     training acc = 0.812,     testing acc = 0.916
+START EPOCH  9
+Traing loop
+100%|██████████| 290/290 [01:16<00:00,  3.78it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:11<00:00,  6.53it/s]
+epoch = 09,    training loss = 15.563,     training acc = 0.824,     testing acc = 0.918
+START EPOCH  10
+Traing loop
+100%|██████████| 290/290 [01:15<00:00,  3.84it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:11<00:00,  6.43it/s]
+epoch = 10,    training loss = 14.398,     training acc = 0.835,     testing acc = 0.921
+START EPOCH  11
+Traing loop
+100%|██████████| 290/290 [01:15<00:00,  3.85it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:10<00:00,  7.04it/s]
+epoch = 11,    training loss = 13.421,     training acc = 0.844,     testing acc = 0.925
+START EPOCH  12
+Traing loop
+100%|██████████| 290/290 [01:12<00:00,  4.02it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:09<00:00,  7.33it/s]
+epoch = 12,    training loss = 12.590,     training acc = 0.851,     testing acc = 0.926
+START EPOCH  13
+Traing loop
+100%|██████████| 290/290 [01:13<00:00,  3.96it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:10<00:00,  7.22it/s]
+epoch = 13,    training loss = 11.873,     training acc = 0.858,     testing acc = 0.927
+START EPOCH  14
+Traing loop
+100%|██████████| 290/290 [01:16<00:00,  3.78it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:09<00:00,  7.56it/s]
+epoch = 14,    training loss = 11.246,     training acc = 0.864,     testing acc = 0.928
+START EPOCH  15
+Traing loop
+100%|██████████| 290/290 [01:13<00:00,  3.96it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:09<00:00,  7.41it/s]
+epoch = 15,    training loss = 10.694,     training acc = 0.869,     testing acc = 0.929
+START EPOCH  16
+Traing loop
+100%|██████████| 290/290 [01:14<00:00,  3.90it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:11<00:00,  6.44it/s]
+epoch = 16,    training loss = 10.203,     training acc = 0.874,     testing acc = 0.929
+START EPOCH  17
+Traing loop
+100%|██████████| 290/290 [01:18<00:00,  3.70it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:09<00:00,  7.36it/s]
+epoch = 17,    training loss = 9.763,     training acc = 0.879,     testing acc = 0.930
+START EPOCH  18
+Traing loop
+100%|██████████| 290/290 [01:13<00:00,  3.92it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:10<00:00,  7.10it/s]
+epoch = 18,    training loss = 9.367,     training acc = 0.883,     testing acc = 0.930
+START EPOCH  19
+Traing loop
+100%|██████████| 290/290 [01:20<00:00,  3.62it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:10<00:00,  7.10it/s]
+epoch = 19,    training loss = 9.008,     training acc = 0.886,     testing acc = 0.931
+START EPOCH  20
+Traing loop
+100%|██████████| 290/290 [01:19<00:00,  3.63it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:10<00:00,  6.99it/s]
+epoch = 20,    training loss = 8.682,     training acc = 0.889,     testing acc = 0.931
+START EPOCH  21
+Traing loop
+100%|██████████| 290/290 [01:17<00:00,  3.73it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:10<00:00,  7.26it/s]
+epoch = 21,    training loss = 8.382,     training acc = 0.892,     testing acc = 0.932
+START EPOCH  22
+Traing loop
+100%|██████████| 290/290 [01:21<00:00,  3.54it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:10<00:00,  7.06it/s]
+epoch = 22,    training loss = 8.106,     training acc = 0.895,     testing acc = 0.931
+START EPOCH  23
+Traing loop
+100%|██████████| 290/290 [01:20<00:00,  3.62it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:09<00:00,  7.42it/s]
+epoch = 23,    training loss = 7.852,     training acc = 0.898,     testing acc = 0.932
+START EPOCH  24
+Traing loop
+100%|██████████| 290/290 [01:19<00:00,  3.63it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:11<00:00,  6.55it/s]
+epoch = 24,    training loss = 7.617,     training acc = 0.900,     testing acc = 0.932
+START EPOCH  25
+Traing loop
+100%|██████████| 290/290 [01:23<00:00,  3.46it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:09<00:00,  7.38it/s]
+epoch = 25,    training loss = 7.399,     training acc = 0.903,     testing acc = 0.932
+START EPOCH  26
+Traing loop
+100%|██████████| 290/290 [01:20<00:00,  3.62it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:09<00:00,  7.43it/s]
+epoch = 26,    training loss = 7.196,     training acc = 0.905,     testing acc = 0.932
+START EPOCH  27
+Traing loop
+100%|██████████| 290/290 [01:24<00:00,  3.41it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:10<00:00,  7.16it/s]
+epoch = 27,    training loss = 7.005,     training acc = 0.907,     testing acc = 0.932
+START EPOCH  28
+Traing loop
+100%|██████████| 290/290 [01:28<00:00,  3.27it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:10<00:00,  7.06it/s]
+epoch = 28,    training loss = 6.827,     training acc = 0.909,     testing acc = 0.932
+START EPOCH  29
+Traing loop
+100%|██████████| 290/290 [01:21<00:00,  3.54it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:10<00:00,  6.84it/s]
+epoch = 29,    training loss = 6.660,     training acc = 0.910,     testing acc = 0.932
+START EPOCH  30
+Traing loop
+100%|██████████| 290/290 [01:28<00:00,  3.26it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:10<00:00,  6.73it/s]
+epoch = 30,    training loss = 6.502,     training acc = 0.912,     testing acc = 0.932
+START EPOCH  31
+Traing loop
+100%|██████████| 290/290 [01:26<00:00,  3.34it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:09<00:00,  7.44it/s]
+epoch = 31,    training loss = 6.353,     training acc = 0.914,     testing acc = 0.933
+START EPOCH  32
+Traing loop
+100%|██████████| 290/290 [01:28<00:00,  3.29it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:10<00:00,  7.19it/s]
+epoch = 32,    training loss = 6.212,     training acc = 0.915,     testing acc = 0.933
+START EPOCH  33
+Traing loop
+100%|██████████| 290/290 [01:27<00:00,  3.33it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:09<00:00,  7.51it/s]
+epoch = 33,    training loss = 6.079,     training acc = 0.917,     testing acc = 0.933
+START EPOCH  34
+Traing loop
+100%|██████████| 290/290 [01:27<00:00,  3.31it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:11<00:00,  6.50it/s]
+epoch = 34,    training loss = 5.952,     training acc = 0.918,     testing acc = 0.933
+START EPOCH  35
+Traing loop
+100%|██████████| 290/290 [01:32<00:00,  3.14it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:09<00:00,  7.52it/s]
+epoch = 35,    training loss = 5.832,     training acc = 0.919,     testing acc = 0.933
+START EPOCH  36
+Traing loop
+100%|██████████| 290/290 [01:27<00:00,  3.33it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:09<00:00,  7.44it/s]
+epoch = 36,    training loss = 5.718,     training acc = 0.921,     testing acc = 0.933
+START EPOCH  37
+Traing loop
+100%|██████████| 290/290 [01:31<00:00,  3.15it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:10<00:00,  7.14it/s]
+epoch = 37,    training loss = 5.609,     training acc = 0.922,     testing acc = 0.933
+START EPOCH  38
+Traing loop
+100%|██████████| 290/290 [01:31<00:00,  3.18it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:10<00:00,  7.30it/s]
+epoch = 38,    training loss = 5.505,     training acc = 0.923,     testing acc = 0.933
+START EPOCH  39
+Traing loop
+100%|██████████| 290/290 [01:35<00:00,  3.02it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:10<00:00,  6.93it/s]
+epoch = 39,    training loss = 5.406,     training acc = 0.924,     testing acc = 0.934
+START EPOCH  40
+Traing loop
+100%|██████████| 290/290 [01:30<00:00,  3.20it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:09<00:00,  7.57it/s]
+epoch = 40,    training loss = 5.310,     training acc = 0.925,     testing acc = 0.933
+START EPOCH  41
+Traing loop
+100%|██████████| 290/290 [01:32<00:00,  3.15it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:09<00:00,  7.47it/s]
+epoch = 41,    training loss = 5.219,     training acc = 0.926,     testing acc = 0.933
+START EPOCH  42
+Traing loop
+100%|██████████| 290/290 [01:35<00:00,  3.03it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:09<00:00,  7.37it/s]
+epoch = 42,    training loss = 5.132,     training acc = 0.927,     testing acc = 0.933
+START EPOCH  43
+Traing loop
+100%|██████████| 290/290 [01:34<00:00,  3.07it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:09<00:00,  7.46it/s]
+epoch = 43,    training loss = 5.048,     training acc = 0.928,     testing acc = 0.933
+START EPOCH  44
+Traing loop
+100%|██████████| 290/290 [02:01<00:00,  2.39it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:10<00:00,  7.27it/s]
+epoch = 44,    training loss = 4.967,     training acc = 0.929,     testing acc = 0.933
+START EPOCH  45
+Traing loop
+100%|██████████| 290/290 [01:36<00:00,  3.00it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:10<00:00,  7.10it/s]
+epoch = 45,    training loss = 4.889,     training acc = 0.930,     testing acc = 0.934
+START EPOCH  46
+Traing loop
+100%|██████████| 290/290 [01:38<00:00,  2.94it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:10<00:00,  6.93it/s]
+epoch = 46,    training loss = 4.814,     training acc = 0.931,     testing acc = 0.933
+START EPOCH  47
+Traing loop
+100%|██████████| 290/290 [01:38<00:00,  2.95it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:10<00:00,  7.03it/s]
+epoch = 47,    training loss = 4.742,     training acc = 0.932,     testing acc = 0.934
+START EPOCH  48
+Traing loop
+100%|██████████| 290/290 [01:40<00:00,  2.88it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:10<00:00,  7.00it/s]
+epoch = 48,    training loss = 4.673,     training acc = 0.932,     testing acc = 0.933
+START EPOCH  49
+Traing loop
+100%|██████████| 290/290 [01:38<00:00,  2.94it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:09<00:00,  7.37it/s]
+epoch = 49,    training loss = 4.605,     training acc = 0.933,     testing acc = 0.933
+START EPOCH  50
+Traing loop
+100%|██████████| 290/290 [02:10<00:00,  2.22it/s]
+Evaluate loop
+100%|██████████| 73/73 [00:10<00:00,  7.25it/s]
+epoch = 50,    training loss = 4.540,     training acc = 0.934,     testing acc = 0.933

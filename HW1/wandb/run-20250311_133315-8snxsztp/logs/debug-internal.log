@@ -1,0 +1,16 @@
+{"time":"2025-03-11T13:33:15.2640863+07:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\napat\\Documents\\GitHub\\FRA501_NLP\\HW1\\wandb\\run-20250311_133315-8snxsztp\\logs\\debug-core.log"}
+{"time":"2025-03-11T13:33:15.9028186+07:00","level":"INFO","msg":"created new stream","id":"8snxsztp"}
+{"time":"2025-03-11T13:33:15.9028186+07:00","level":"INFO","msg":"stream: started","id":"8snxsztp"}
+{"time":"2025-03-11T13:33:15.9028186+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"8snxsztp"}
+{"time":"2025-03-11T13:33:15.9028186+07:00","level":"INFO","msg":"handler: started","stream_id":"8snxsztp"}
+{"time":"2025-03-11T13:33:15.9035329+07:00","level":"INFO","msg":"sender: started","stream_id":"8snxsztp"}
+{"time":"2025-03-11T13:33:16.3368255+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-11T13:33:18.9966559+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T13:33:54.6854876+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T13:35:12.2999732+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T13:35:22.2109517+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T13:35:22.2171313+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T13:35:27.9944148+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T13:35:28.0033061+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T13:35:41.6218654+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T13:35:41.6298306+07:00","level":"INFO","msg":"Pausing system monitor"}

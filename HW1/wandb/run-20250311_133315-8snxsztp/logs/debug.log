@@ -1,0 +1,46 @@
+2025-03-11 13:33:15,259 INFO    MainThread:12708 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\napat\Documents\GitHub\FRA501_NLP\HW1\wandb\run-20250311_133315-8snxsztp\logs\debug.log
+2025-03-11 13:33:15,259 INFO    MainThread:12708 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\napat\Documents\GitHub\FRA501_NLP\HW1\wandb\run-20250311_133315-8snxsztp\logs\debug-internal.log
+2025-03-11 13:33:15,260 INFO    MainThread:12708 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x00000292A8898100>
+2025-03-11 13:33:15,260 INFO    MainThread:12708 [wandb_init.py:init():761] calling init triggers
+2025-03-11 13:33:15,260 INFO    MainThread:12708 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'architecture': 'CRF_pm', 'epochs': 50, '_wandb': {}}
+2025-03-11 13:33:15,260 INFO    MainThread:12708 [wandb_init.py:init():784] starting backend
+2025-03-11 13:33:15,261 INFO    MainThread:12708 [wandb_init.py:init():788] sending inform_init request
+2025-03-11 13:33:15,262 INFO    MainThread:12708 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn, using: spawn
+2025-03-11 13:33:15,262 INFO    MainThread:12708 [wandb_init.py:init():798] backend started and connected
+2025-03-11 13:33:15,264 INFO    MainThread:12708 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-03-11 13:33:15,295 INFO    MainThread:12708 [wandb_run.py:_label_probe_notebook():1214] Unable to probe notebook: 'charmap' codec can't decode byte 0x81 in position 2803: character maps to <undefined>
+2025-03-11 13:33:15,295 INFO    MainThread:12708 [wandb_init.py:init():891] updated telemetry
+2025-03-11 13:33:15,352 INFO    MainThread:12708 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-03-11 13:33:16,333 INFO    MainThread:12708 [wandb_init.py:init():990] starting run threads in backend
+2025-03-11 13:33:18,993 INFO    MainThread:12708 [wandb_run.py:_console_start():2375] atexit reg
+2025-03-11 13:33:18,993 INFO    MainThread:12708 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-03-11 13:33:18,993 INFO    MainThread:12708 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-03-11 13:33:18,994 INFO    MainThread:12708 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-03-11 13:33:18,994 INFO    MainThread:12708 [wandb_init.py:init():1032] run started, returning control to user process
+2025-03-11 13:33:18,996 INFO    MainThread:12708 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-11 13:33:18,996 INFO    MainThread:12708 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-11 13:33:54,684 INFO    MainThread:12708 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-11 13:35:12,299 INFO    MainThread:12708 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-11 13:35:12,299 INFO    MainThread:12708 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-11 13:35:22,209 INFO    MainThread:12708 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-11 13:35:22,214 INFO    MainThread:12708 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-11 13:35:22,214 INFO    MainThread:12708 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-11 13:35:27,993 INFO    MainThread:12708 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-11 13:35:28,000 INFO    MainThread:12708 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\napat\Documents\GitHub\FRA501_NLP\HW1\wandb\run-20250311_133527-hyjzvjvn\logs\debug.log
+2025-03-11 13:35:28,000 INFO    MainThread:12708 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\napat\Documents\GitHub\FRA501_NLP\HW1\wandb\run-20250311_133527-hyjzvjvn\logs\debug-internal.log
+2025-03-11 13:35:28,000 INFO    MainThread:12708 [wandb_init.py:init():761] calling init triggers
+2025-03-11 13:35:28,000 INFO    MainThread:12708 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'architecture': 'CRF_pm', 'epochs': 50, '_wandb': {}}
+2025-03-11 13:35:28,000 INFO    MainThread:12708 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-11 13:35:28,003 INFO    MainThread:12708 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-11 13:35:28,003 INFO    MainThread:12708 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-11 13:35:41,621 INFO    MainThread:12708 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-11 13:35:41,626 INFO    MainThread:12708 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\napat\Documents\GitHub\FRA501_NLP\HW1\wandb\run-20250311_133541-tybqqrda\logs\debug.log
+2025-03-11 13:35:41,627 INFO    MainThread:12708 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\napat\Documents\GitHub\FRA501_NLP\HW1\wandb\run-20250311_133541-tybqqrda\logs\debug-internal.log
+2025-03-11 13:35:41,627 INFO    MainThread:12708 [wandb_init.py:init():761] calling init triggers
+2025-03-11 13:35:41,627 INFO    MainThread:12708 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'architecture': 'CRF_pm_', 'epochs': 50, '_wandb': {}}
+2025-03-11 13:35:41,627 INFO    MainThread:12708 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-11 13:35:41,629 INFO    MainThread:12708 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-11 13:35:41,629 INFO    MainThread:12708 [wandb_init.py:_pause_backend():564] pausing backend
