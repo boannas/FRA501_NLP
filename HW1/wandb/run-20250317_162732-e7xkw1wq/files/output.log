@@ -1,0 +1,117 @@
+EPOCH : 1
+TRAINING LOOP
+  5%|▌         | 1639/32152 [00:09<02:55, 173.77it/s]
+start training
+start training
+EPOCH : 1
+TRAINING LOOP
+100%|██████████| 64304/64304 [26:41<00:00, 40.14it/s]
+VALIDATION LOOP
+100%|██████████| 7952/7952 [00:27<00:00, 285.43it/s]
+val loss: 0.47985896468162537
+val accuracy: 0.7778172947407617
+EPOCH : 2
+TRAINING LOOP
+  1%|          | 404/64304 [00:11<29:02, 36.67it/s]
+start training
+start training
+EPOCH : 1
+TRAINING LOOP
+  0%|          | 0/32152 [00:00<?, ?it/s]
+start training
+start training
+Requirement already satisfied: wandb in c:\users\napat\documents\github\env\lib\site-packages (0.19.8)
+Requirement already satisfied: torchsummaryX in c:\users\napat\documents\github\env\lib\site-packages (1.3.0)
+
+[notice] A new release of pip is available: 23.0.1 -> 25.0.1
+Requirement already satisfied: typing-extensions<5,>=4.4 in c:\users\napat\documents\github\env\lib\site-packages (from wandb) (4.12.2)
+[notice] To update, run: python.exe -m pip install --upgrade pip
+Requirement already satisfied: pydantic<3,>=2.6 in c:\users\napat\documents\github\env\lib\site-packages (from wandb) (2.10.6)
+Requirement already satisfied: setproctitle in c:\users\napat\documents\github\env\lib\site-packages (from wandb) (1.3.5)
+Requirement already satisfied: psutil>=5.0.0 in c:\users\napat\documents\github\env\lib\site-packages (from wandb) (7.0.0)
+Requirement already satisfied: platformdirs in c:\users\napat\documents\github\env\lib\site-packages (from wandb) (4.3.6)
+Requirement already satisfied: click!=8.0.0,>=7.1 in c:\users\napat\documents\github\env\lib\site-packages (from wandb) (8.1.8)
+Requirement already satisfied: docker-pycreds>=0.4.0 in c:\users\napat\documents\github\env\lib\site-packages (from wandb) (0.4.0)
+Requirement already satisfied: sentry-sdk>=2.0.0 in c:\users\napat\documents\github\env\lib\site-packages (from wandb) (2.22.0)
+Requirement already satisfied: setuptools in c:\users\napat\documents\github\env\lib\site-packages (from wandb) (65.5.0)
+Requirement already satisfied: pyyaml in c:\users\napat\documents\github\env\lib\site-packages (from wandb) (6.0.2)
+Requirement already satisfied: gitpython!=3.1.29,>=1.0.0 in c:\users\napat\documents\github\env\lib\site-packages (from wandb) (3.1.44)
+Requirement already satisfied: requests<3,>=2.0.0 in c:\users\napat\documents\github\env\lib\site-packages (from wandb) (2.32.3)
+Requirement already satisfied: protobuf!=4.21.0,!=5.28.0,<6,>=3.19.0 in c:\users\napat\documents\github\env\lib\site-packages (from wandb) (5.29.3)
+Requirement already satisfied: pandas in c:\users\napat\documents\github\env\lib\site-packages (from torchsummaryX) (2.2.3)
+Requirement already satisfied: numpy in c:\users\napat\documents\github\env\lib\site-packages (from torchsummaryX) (1.26.4)
+Requirement already satisfied: torch in c:\users\napat\documents\github\env\lib\site-packages (from torchsummaryX) (2.5.1+cu121)
+Requirement already satisfied: colorama in c:\users\napat\documents\github\env\lib\site-packages (from click!=8.0.0,>=7.1->wandb) (0.4.6)
+Requirement already satisfied: six>=1.4.0 in c:\users\napat\documents\github\env\lib\site-packages (from docker-pycreds>=0.4.0->wandb) (1.17.0)
+Requirement already satisfied: gitdb<5,>=4.0.1 in c:\users\napat\documents\github\env\lib\site-packages (from gitpython!=3.1.29,>=1.0.0->wandb) (4.0.12)
+Requirement already satisfied: annotated-types>=0.6.0 in c:\users\napat\documents\github\env\lib\site-packages (from pydantic<3,>=2.6->wandb) (0.7.0)
+Requirement already satisfied: pydantic-core==2.27.2 in c:\users\napat\documents\github\env\lib\site-packages (from pydantic<3,>=2.6->wandb) (2.27.2)
+Requirement already satisfied: certifi>=2017.4.17 in c:\users\napat\documents\github\env\lib\site-packages (from requests<3,>=2.0.0->wandb) (2025.1.31)
+Requirement already satisfied: charset-normalizer<4,>=2 in c:\users\napat\documents\github\env\lib\site-packages (from requests<3,>=2.0.0->wandb) (3.4.1)
+Requirement already satisfied: idna<4,>=2.5 in c:\users\napat\documents\github\env\lib\site-packages (from requests<3,>=2.0.0->wandb) (3.10)
+Requirement already satisfied: urllib3<3,>=1.21.1 in c:\users\napat\documents\github\env\lib\site-packages (from requests<3,>=2.0.0->wandb) (2.3.0)
+Requirement already satisfied: tzdata>=2022.7 in c:\users\napat\documents\github\env\lib\site-packages (from pandas->torchsummaryX) (2025.1)
+Requirement already satisfied: python-dateutil>=2.8.2 in c:\users\napat\documents\github\env\lib\site-packages (from pandas->torchsummaryX) (2.9.0.post0)
+Requirement already satisfied: pytz>=2020.1 in c:\users\napat\documents\github\env\lib\site-packages (from pandas->torchsummaryX) (2025.1)
+Requirement already satisfied: jinja2 in c:\users\napat\documents\github\env\lib\site-packages (from torch->torchsummaryX) (3.1.6)
+Requirement already satisfied: networkx in c:\users\napat\documents\github\env\lib\site-packages (from torch->torchsummaryX) (3.4.2)
+Requirement already satisfied: filelock in c:\users\napat\documents\github\env\lib\site-packages (from torch->torchsummaryX) (3.17.0)
+Requirement already satisfied: sympy==1.13.1 in c:\users\napat\documents\github\env\lib\site-packages (from torch->torchsummaryX) (1.13.1)
+Requirement already satisfied: fsspec in c:\users\napat\documents\github\env\lib\site-packages (from torch->torchsummaryX) (2025.3.0)
+Requirement already satisfied: mpmath<1.4,>=1.1.0 in c:\users\napat\documents\github\env\lib\site-packages (from sympy==1.13.1->torch->torchsummaryX) (1.3.0)
+Requirement already satisfied: smmap<6,>=3.0.1 in c:\users\napat\documents\github\env\lib\site-packages (from gitdb<5,>=4.0.1->gitpython!=3.1.29,>=1.0.0->wandb) (5.0.2)
+Requirement already satisfied: MarkupSafe>=2.0 in c:\users\napat\documents\github\env\lib\site-packages (from jinja2->torch->torchsummaryX) (3.0.2)
+Requirement already satisfied: torchinfo in c:\users\napat\documents\github\env\lib\site-packages (1.8.0)
+
+[notice] A new release of pip is available: 23.0.1 -> 25.0.1
+[notice] To update, run: python.exe -m pip install --upgrade pip
+wandb: Currently logged in as: boannas (boannas-kmutt) to https://api.wandb.ai. Use `wandb login --relogin` to force relogin
+x corpora/
+x corpora/mnist_data/
+x corpora/mnist_data/t10k-images-idx3-ubyte.gz
+x corpora/mnist_data/train-images-idx3-ubyte.gz
+x corpora/mnist_data/.ipynb_checkpoints/
+x corpora/mnist_data/vis_utils.py
+x corpora/mnist_data/__init__.py
+x corpora/mnist_data/load_mnist.py
+x corpora/mnist_data/train-labels-idx1-ubyte.gz
+x corpora/mnist_data/t10k-labels-idx1-ubyte.gz
+x corpora/BEST/
+x corpora/BEST/test/
+x corpora/BEST/test/df_best_article_test.csv
+x corpora/BEST/test/df_best_encyclopedia_test.csv
+x corpora/BEST/test/df_best_novel_test.csv
+x corpora/BEST/test/df_best_news_test.csv
+x corpora/BEST/train/
+x corpora/BEST/train/df_best_encyclopedia_train.csv
+x corpora/BEST/train/df_best_article_train.csv
+x corpora/BEST/train/df_best_news_train.csv
+x corpora/BEST/train/df_best_novel_train.csv
+x corpora/BEST/val/
+x corpora/BEST/val/df_best_encyclopedia_val.csv
+x corpora/BEST/val/df_best_news_val.csv
+x corpora/BEST/val/df_best_article_val.csv
+x corpora/BEST/val/df_best_novel_val.csv
+x corpora/.ipynb_checkpoints/
+x corpora/.ipynb_checkpoints/Word_Tokenizer.new-checkpoint.ipynb
+x corpora/.ipynb_checkpoints/BackProp-checkpoint.ipynb
+x corpora/.ipynb_checkpoints/Word_Tokenizer_backup-checkpoint.ipynb
+x corpora/.ipynb_checkpoints/char2vec-checkpoint.ipynb
+x corpora/.ipynb_checkpoints/Word_Tokenizer-checkpoint.ipynb
+x corpora/cattern/
+x corpora/cattern/gradient_check.py
+x corpora/cattern/.ipynb_checkpoints/
+x corpora/cattern/__init__.py
+x corpora/cattern/data_utils.py
+x corpora/wiki/
+x corpora/wiki/thwiki_chk.txt
+  char char-1 char1
+1    e      h     l
+2    l      e     l
+3    l      l     o
+4    o      l
+5           o     w
+6    w            o
+7    o      w     r
+8    r      o     l
+9    l      r     d
