@@ -110,3 +110,4 @@
 {"time":"2025-03-17T22:49:19.4460575+07:00","level":"INFO","msg":"Pausing system monitor"}
 {"time":"2025-03-17T22:53:18.751714+07:00","level":"INFO","msg":"Resuming system monitor"}
 {"time":"2025-03-17T22:53:20.384754+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-18T07:57:52.3609232+07:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/boannas-kmutt/POS-tagging/u6m8m0sb/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
