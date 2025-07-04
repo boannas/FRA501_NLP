@@ -1,8 +1,0 @@
-2025-03-11 13:35:41,626 INFO    MainThread:12708 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\napat\Documents\GitHub\FRA501_NLP\HW1\wandb\run-20250311_133541-tybqqrda\logs\debug.log
-2025-03-11 13:35:41,627 INFO    MainThread:12708 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\napat\Documents\GitHub\FRA501_NLP\HW1\wandb\run-20250311_133541-tybqqrda\logs\debug-internal.log
-2025-03-11 13:35:41,627 INFO    MainThread:12708 [wandb_init.py:init():761] calling init triggers
-2025-03-11 13:35:41,627 INFO    MainThread:12708 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
-config: {'architecture': 'CRF_pm_', 'epochs': 50, '_wandb': {}}
-2025-03-11 13:35:41,627 INFO    MainThread:12708 [wandb_init.py:init():776] wandb.init() called while a run is active
-2025-03-11 13:35:41,629 INFO    MainThread:12708 [jupyter.py:save_ipynb():386] not saving jupyter notebook
-2025-03-11 13:35:41,629 INFO    MainThread:12708 [wandb_init.py:_pause_backend():564] pausing backend
